@@ -1,0 +1,165 @@
+/* General */
+* {
+  font-size: 10px;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  background: #fff;
+  color: #333;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+  font-size: 1.6rem;
+}
+
+p {
+  font-size: 1.6rem;
+}
+
+/* Navbar */
+#navbar {
+  display: flex;
+  background: #333;
+  color: #fff;
+  width: 100%;
+  height: 90px;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  padding: 20px 15px;
+  opacity: 0.87;
+  z-index: 10;
+}
+
+#navbar i {
+  color: rgb(160, 135, 207);
+}
+
+#navbar h1 {
+  font-size: 3.2rem;
+}
+
+#navbar a {
+  color: #fff;
+  font-size: 1.8rem;
+  font-weight: bold;
+  padding: 20px;
+  margin: 0 5px;
+}
+
+#navbar a:hover {
+  background-color: rgb(160, 135, 207);
+  color: #333;
+  height: 100%;
+}
+
+.navbar ul {
+  display: flex;
+}
+
+/* Showcase */
+.showcase * { 
+  z-index: 5;
+}
+
+.showcase {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background: url(../img/home/wayne-cover2.jpg) no-repeat center center/cover;
+  height: 100vh;
+  position: relative;
+}
+
+.showcase.contact {
+  background: url(../img/home/wayne.png) no-repeat center center/cover;
+}
+
+.showcase::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.showcase h1, 
+.showcase p{ 
+  color: #fff;
+  margin-bottom: 15px;
+}
+
+/* About */
+#about-page {
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+#about-page > div {
+  flex-direction: column;
+  text-align: center;
+  margin: 40px 25px;
+}
+
+#about-page img {
+  width: 100%;
+  min-width: 400px;
+  object-fit: cover;
+}
+
+#about-page h2 {
+  font-size: 2.4rem;
+  font-weight: 300;
+  padding-bottom: 20px;
+}
+
+/* Contact form */
+.contact-form label {
+  font-size: 1.8rem;
+}
+
+.contact-form input,
+.contact-form textarea {
+  font-size: 1.6rem;
+  text-align: left;
+  resize: none;
+}
+
+.contact-form .btn {
+  margin: 20px 20px;
+}
+
+.contact-form .btn:hover {
+  cursor: pointer;
+}
+
+/* Footer */
+#footer {
+  background: #333;
+  color: #fff;
+  font-size: 1.2rem;
+  text-align: center;
+  padding: 20px;
+}
