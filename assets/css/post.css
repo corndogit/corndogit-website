@@ -92,6 +92,11 @@ main {
   margin: 0 0 1.75rem 0;
   padding: 0;
 }
+.caption {
+  font-size: 90%;
+  text-align: center;
+  font-style: italic;
+}
 .content h1 {
   font-size: 2rem;
 }
