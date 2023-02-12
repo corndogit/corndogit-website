@@ -150,6 +150,10 @@ p {
 }
 
 /* Contact form */
+.contact-form {
+  margin: 15vh 0;
+}
+
 .contact-form label {
   font-size: 1.8rem;
 }

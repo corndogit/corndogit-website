@@ -36,16 +36,18 @@
   <section id="contact" class="flex-columns">
   <div class="row flex-items">
     <div class="column">
-      <form action="https://formspree.io/f/xyyagnyn" method="POST" class="column-2 contact-form">
-          <h2 style="font-weight: 600">Contact us</h2>
-          <label for="fullname">Name*</label>
-          <input type="text" name="fullname" id="name" placeholder="Full Name" required="required">
-          <label for="fullname">Email*</label>
-          <input type="email" name="email" id="email" placeholder="Email Address" required="required">
-          <label for="message">Message*</label>
-          <textarea name="message" id="message" cols="30" rows="10" required="required"></textarea>
-          <input type="submit" value="Submit" class="btn btn-primary">
-        </form>
+      <div class="contact-form">
+        <form action="https://formspree.io/f/xyyagnyn" method="POST" class="column-2">
+            <h2 style="font-weight: 600">Contact us</h2>
+            <label for="fullname">Name*</label>
+            <input type="text" name="fullname" id="name" placeholder="Full Name" required="required">
+            <label for="fullname">Email*</label>
+            <input type="email" name="email" id="email" placeholder="Email Address" required="required">
+            <label for="message">Message*</label>
+            <textarea name="message" id="message" cols="30" rows="10" required="required"></textarea>
+            <input type="submit" value="Submit" class="btn btn-primary">
+          </form>
+        </div>
     </div>
   </div>
   </section>

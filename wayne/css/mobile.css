@@ -3,7 +3,7 @@
 @media(max-width: 768px) {
   #navbar {
     flex-direction: column;
-    height: 15vh;
+    height: 140px;
     padding: 20px;
   }
 
