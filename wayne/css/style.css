@@ -68,6 +68,20 @@ p {
   height: 100%;
 }
 
+#navbar a.logo  {
+  background-color: transparent;
+  font-size: 3.2rem;
+  padding: 0;
+  margin-bottom: 15px;
+  height: 100%;
+}
+
+#navbar a:hover.logo  {
+  background-color: transparent;
+  color: #fff;
+  height: 100%;
+}
+
 .navbar ul {
   display: flex;
 }
