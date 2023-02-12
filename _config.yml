@@ -1,10 +1,15 @@
-title: Corndogit
 markdown: kramdown
+title: Corndogit
 
-# for atom feed
+# seo
+description: "Chemistry grad trying to make it as a software developer, this is my personal site where I talk about my experiences."
+image: https://avatars.githubusercontent.com/u/101812777?v=4
 author:
   name: Nathan Brenton
   email: nathanfinlaybrenton@gmail.com
+
+url: "https://www.corndogit.dev"
+baseurl: ""
 
 plugins:
   - jemoji
@@ -23,4 +28,3 @@ defaults:
     values:
       layout: "post"
       permalink: /posts/:title/
-exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
