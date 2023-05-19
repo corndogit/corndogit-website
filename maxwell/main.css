@@ -1,0 +1,42 @@
+/* General */
+* {
+  font-size: 10px;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  background: #333;
+  color: #eee;
+}
+
+ul {
+  list-style: none;
+}
+
+h1 {
+  font-size: 6.4rem;
+}
+
+h2 {
+  font-size: 2.4rem;
+}
+
+a {
+  color: #559;
+  text-decoration: none;
+  font-size: 1.6rem;
+}
+
+li,
+p {
+  font-size: 1.6rem;
+}
