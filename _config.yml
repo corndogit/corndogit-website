@@ -2,7 +2,9 @@ markdown: kramdown
 title: Corndogit
 
 # seo
-description: "Chemistry grad trying to make it as a software developer, this is my personal site where I talk about my experiences."
+description: "
+Graduate software engineer, with a background in chemistry and CS. Interested in full-stack development, AI/ML and game development.
+"
 image: https://avatars.githubusercontent.com/u/101812777?v=4
 author:
   name: Nathan Brenton
