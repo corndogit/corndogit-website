@@ -10,8 +10,8 @@ Well, it's been a while since I've written any posts for this website, which has
 
 I have:
 
-- Finished my MSc CompSci including a final project where I made a game in Godot (I was meant to write a post about that...)
-- Started my first job in the tech industry as a junior software engineer where I've learned a ton of new developer skills on the full-stack such as React, Jest + Cypress, Spring Boot, and also picked up some skills in the field of AI/ML
+- Finished my MSc CompSci degree including a final project where I made a game in Godot (I was meant to write a post about that...)
+- Started my first job in the tech industry as a junior software engineer, where I've learned a ton of new developer skills on the full-stack such as React, Jest + Cypress, Spring Boot, and also picked up some skills in the field of AI/ML
 - Gotten back into my favourite game of all time, [Beatmania IIDX](https://en.wikipedia.org/wiki/Beatmania_IIDX), and achieved the 10th Dan rank in single player
 
 It's been a busy couple of months, but my passion for development is still going strong ever since changing career paths back in 2022; in fact, this month actually marks my 2 year anniversary of having a proper go at learning to code! I haven't prepared any celebration, other than that I happen to be going to Japan next week, a trip that I've had dreamed of doing for probably a decade.
