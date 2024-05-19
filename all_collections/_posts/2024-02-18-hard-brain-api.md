@@ -2,7 +2,7 @@
 layout: post
 title: 'Using FastAPI and Disnake to make a Discord music quiz bot'
 date: 2024-02-18
-categories: ["projects", "python"]
+categories: ["Projects", "Python"]
 ---
 ![fast api and disnake logos](/assets/img/2024-02-18-hard-brain-api/logos.png)
 

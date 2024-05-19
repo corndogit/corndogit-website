@@ -2,7 +2,7 @@
 layout: post
 title: 'DataSpaceArt: Turning weather data into artwork'
 date: 2023-03-11
-categories: ["projects", "python"]
+categories: ["Projects", "Python"]
 ---
 Many years ago when I was just in secondary school, I picked up a certain book called [Learn Python 3 The Hard Way](https://www.amazon.co.uk/Learn-Python-Hard-Way-Introduction/dp/0321884914) by Zed A. Shaw. This wouldn't be the first time I'd pick up this book - I tried to work through but at the time, I just didn't have the self-discipline to learn a new skill by myself. I also tried working through it again when I was studying for my Chemistry undergrad degree, but after being swamped with assessments, coursework and exams, I never found the time to work through it. It wasn't until about a year ago while I was unemployed after leaving my job as a brewer at Tiny Rebel that I picked it up for the third time and actually worked through it. I still don't know why it was different this time, but I was absolutely captivated by the simplicity of Python and how such a tool could be used to have control over computer programs. Even simple exercises involving manipulating strings or adding numbers in a loop made my neurons fire off with excitement for all the things I could use this programming language for.  
 
