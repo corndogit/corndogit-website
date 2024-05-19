@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Using FastAPI and Disnake to make a Discord music quiz bot'
+title: 'Hard Brain Pt. 1: Using FastAPI and Disnake to make a Discord music quiz bot'
 date: 2024-02-18
 categories: ["Projects", "Python"]
 ---
