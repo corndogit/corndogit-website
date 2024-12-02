@@ -1,12 +1,14 @@
 name: Nathan Brenton
 dp: https://avatars.githubusercontent.com/u/101812777?v=4
 description: "
-Graduate software engineer, with a background in chemistry and CS. Interested in full-stack development, AI/ML and game development.
+Full-time software engineer since 2022 | 
+CompSci (MSc) and Chemistry (BSc) | 
+Interests: full-stack web development, game dev, devops
 "
 email: admin@corndogit.dev
 contact:
-  - title: linkedin
-    url: https://www.linkedin.com/in/nathan-brenton
+  - title: bluesky
+    url: https://bsky.app/profile/corndogit.dev
   - title: github
     url: https://github.com/corndogit
   - title: email
