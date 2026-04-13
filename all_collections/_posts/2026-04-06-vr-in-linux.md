@@ -29,7 +29,7 @@ To start off simply, here is my personal stack for VR in Linux.
 CachyOS is an Arch-based Linux distro designed with gaming in mind. It ships with package builds gaming-optimized for many different hardware configurations, a quick installer with support for Nvidia drivers out-of-box and kernel optimizations for better performance. My experience with CachyOS over the past few months has been very smooth - I stuck with the default install options and got started with KDE Plasma, which is one of the nicest DEs I've used so far. There are frequent updates for system packages and the stability is noticeable.
 
 ![CachyOS logo](/assets/img/2026-04-06-vr-in-linux/cachyos.png)
-Fast, stable, quick and easy to install. Haven't looked back since installing it.
+Haven't looked back since installing it.
 {:.caption}
 
 ## ALVR
